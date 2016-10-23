@@ -37,6 +37,7 @@ div {
 .btn-warning, .btn-small-warning, .btn-big-warning {
   background-color: #f33;
   color: #fff;
+  border: #f33 3px solid;
 }
 
 .first {
